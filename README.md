@@ -1,5 +1,5 @@
 #### Class Association Example of Aggregation
-
+---
 #### Aggregation vs Composition
 
 #### An association between two class is considered **Aggregation** when both classes can exist independently of each other. Alternatively, if one of the classes is dependent on the other to exist then the association is considered **Composition**.
